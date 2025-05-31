@@ -16,7 +16,6 @@ Throughout this project, I had the opportunity to:
 
 ## 🔄 Steps Followed
 
-[📥 Download Dataset](https://docs.google.com/spreadsheets/d/1zGx61NdbXoosYdrCraDgaaavNZCzjLL_/edit?usp=sharing&ouid=115970559951748233059&rtpof=true&sd=true)
 
 ### 1. **Data Gathering**
 - Imported raw CSV data into Power BI.
@@ -90,11 +89,6 @@ Throughout this project, I had the opportunity to:
 3. Explore visuals and apply filters as needed
 
 ---
-
-## 🔗 Useful Links
-
-- 📊 [Dashboard File](https://drive.google.com/file/d/1h30yQ-tukzdef7TLYNqnkKJKS_5BZZmr/view?usp=sharing)  
-- 📈 [Dataset](https://docs.google.com/spreadsheets/d/1zGx61NdbXoosYdrCraDgaaavNZCzjLL_/edit?usp=sharing)
 
 
 <!-- Commit on 2025-05-25T10:00:00 -->

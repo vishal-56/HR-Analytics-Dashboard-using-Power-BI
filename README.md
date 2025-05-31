@@ -78,7 +78,7 @@ Throughout this project, I had the opportunity to:
 - `HR_Analytics_Dashboard.pbix` – Main Power BI Dashboard  
 - 📷 **Dashboard Preview**:
 
-📷 **[Click to view Dashboard Preview (PDF)](https://github.com/vishal-56/HR-Analytics-Dashboard-using-Power-BI/blob/main/HR%20Analytics%20dashboard.pdf)**
+![HR Analytics dashboard-1](https://github.com/user-attachments/assets/c65e2c44-ea60-45db-8777-c3118aa84051)
 
 ---
 
